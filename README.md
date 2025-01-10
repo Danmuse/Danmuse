@@ -24,7 +24,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="css3" width="40" height="40"/> 
     </a><br>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" title="Arduino" alt="arduino" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732" title="Arduino" alt="arduino" width="40" height="40"/>
     </a>
     <span>&#160;</span>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 

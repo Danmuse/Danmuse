@@ -98,8 +98,8 @@
                 </a>
             </td>
             <td>
-                <a href="https://solidedge.siemens.com/es/" target="_blank" rel="noreferrer"> 
-                    <img src="https://taiwebs.com/upload/icons/mp5-for-siemens-solid-edge.png" title="Solid Edge" alt="solidedge" width="40" height="40"/>
+                <a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/onshape.svg" title="Onshape" alt="onshape" width="40" height="40"/>
                 </a>
             </td>
             <td>
